@@ -1,2 +1,5 @@
 docker is the open source containerzation tool its using dploy and run shipping containorzation appliction in issolation mode.
 docker run only run 1 container at atime.its work like virtual machine
+it has some instuctions for shiping to the container
+docker image 
+docker file 
