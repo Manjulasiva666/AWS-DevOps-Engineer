@@ -1,0 +1,6 @@
+ip a s that show the server ip address and subnet mask
+ping 
+uname for show the which operating system using right now
+netsat -tunlp  this command work for which services working on that port number 
+  example : netstat -tunlp | grep sshd (that visable 22 port number its a defualt port)
+  
